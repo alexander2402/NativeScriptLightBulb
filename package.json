@@ -22,7 +22,7 @@
     "nativescript-angular": "1.0.0",
     "nativescript-bluetooth": "1.1.2",
     "reflect-metadata": "^0.1.8",
-    "tns-core-modules": "2.3.0"
+    "tns-core-modules": "^6.5.21"
   },
   "devDependencies": {
     "babel-traverse": "6.15.0",
@@ -30,6 +30,7 @@
     "babylon": "6.10.0",
     "lazy": "1.0.11",
     "nativescript-dev-typescript": "^0.3.2",
+    "tns-android": "6.5.3",
     "typescript": "^1.8.10",
     "zone.js": "^0.6.21"
   }

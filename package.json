@@ -16,8 +16,8 @@
     "@nativescript/angular": "10.0.0",
     "@nativescript/core": "7.0.0",
     "@nativescript/webpack": "3.0.0",
-    "nativescript-angular": "^10.0.0",
     "nativescript-bluetooth": "1.1.2",
+    "nativescript-dev-webpack": "^0.10.2",
     "reflect-metadata": "^0.1.8"
   },
   "devDependencies": {
@@ -28,7 +28,6 @@
     "babylon": "6.10.0",
     "lazy": "1.0.11",
     "nativescript-dev-typescript": "^0.10.0",
-    "nativescript-dev-webpack": "^1.5.1",
     "tns-android": "6.5.3",
     "typescript": "3.9.7",
     "zone.js": "^0.6.21"
